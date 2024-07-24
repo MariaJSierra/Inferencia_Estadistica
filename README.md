@@ -1,4 +1,4 @@
-<h1> Manejo de Pruebas de Hipótesis </h1>
+<h1> Manejo de Pruebas de Hipótesis y Regresiones</h1>
 <h2> Descripción </h2>
 <p> En este repositorio se encuentra el uso de Pruebas de Hipótesis, desde su creación manual hasta su uso práctico y análisis.  </p>
 
