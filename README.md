@@ -1,3 +1,13 @@
+# Proyecto de Análisis de Datos
+
+En este proyecto, utilizamos el archivo `Cleaned_Advertising_Budget_and_Sales.xlsx` para analizar los datos y obtener conclusiones sobre el presupuesto de publicidad y las ventas.
+
+## Descripción del Archivo
+
+- `Cleaned_Advertising_Budget_and_Sales.xlsx`: Este archivo contiene los datos limpios del presupuesto de publicidad y las ventas.
+
+
+
 <h1> Manejo de Pruebas de Hipótesis y Regresiones</h1>
 <h2> Descripción </h2>
 <p> En este repositorio se encuentra el uso de Pruebas de Hipótesis, desde su creación manual hasta su uso práctico y análisis.  </p>
